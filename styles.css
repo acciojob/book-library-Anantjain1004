@@ -31,7 +31,7 @@ body {
         position: absolute;
         bottom: 5px;
       }
-      .price {
+    .item1 .price {
         height: 50px;
         width: 570px;
         background-color: rgb(46, 204, 113);
