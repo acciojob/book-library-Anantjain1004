@@ -1,5 +1,4 @@
-/*  your css code here. If applicable */
-body {
+ body {
         margin: 0;
         padding: 0;
         background-color: #ffffff;
@@ -8,6 +7,7 @@ body {
         background-color: #f8f8f8;
         text-align: center;
         height: 100px;
+        padding: 15px;
         margin-bottom: 10px;
       }
       .book-library {
@@ -30,12 +30,13 @@ body {
         margin-left: 28px;
         position: absolute;
         bottom: 5px;
-		  background-color: rgb(46, 204, 113);
+        /* background-color: rgb(46, 204, 113); */
       }
-    .item1 .price {
+      .item1 .price {
         height: 50px;
         width: 570px;
-        
+        background-color: rgb(46, 204, 113);
+        border-radius: 10px;
         color: white;
         text-align: center;
       }
