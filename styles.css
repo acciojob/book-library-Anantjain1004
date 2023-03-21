@@ -1,15 +1,14 @@
 /*  your css code here. If applicable */
- body {
+body {
         margin: 0;
         padding: 0;
         background-color: #ffffff;
       }
       header {
-       background-color: #f8f8f8;
-    text-align: center;
-    height: 100px;
-    margin-bottom: 20px;
-    padding: 10px;
+        background-color: #f8f8f8;
+        text-align: center;
+        height: 100px;
+        margin-bottom: 10px;
       }
       .book-library {
         display: flex;
@@ -35,12 +34,12 @@
       .price {
         height: 50px;
         width: 570px;
-        background-color: #2ecc71;
+        background-color: rgb(46, 204, 113);
         color: white;
         text-align: center;
       }
 
-      h4 {
+      h2 {
         padding: 16px;
       }
       p {
