@@ -2,7 +2,7 @@
         margin: 0;
         padding: 0;
       }
-      .library {
+      .book-library {
         background-color: #ffffff;
       }
       header {
@@ -11,7 +11,7 @@
         text-align: center;
         padding: 10px;
       }
-      .container1 {
+      .book {
         margin-top: 20px;
         height: 550px;
         background-color: #f8f8f8;
