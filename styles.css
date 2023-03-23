@@ -16,12 +16,12 @@
         height: 550px;
         background-color: #f8f8f8;
       }
-      .item1 {
+      .book-library {
         display: flex;
         justify-content: center;
         margin-bottom: 40px;
       }
-      .item1 img {
+      .book-library img {
         margin-top: 20px;
       }
       .item2 {
@@ -32,7 +32,7 @@
         padding: 30px;
         padding-bottom: 5px;
       }
-      .price-block {
+      .item1 {
         background-color: #2ecc71;
         color: white;
         text-align: center;
