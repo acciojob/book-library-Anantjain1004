@@ -1,4 +1,4 @@
-  * {
+ * {
         margin: 0;
         padding: 0;
       }
@@ -16,12 +16,12 @@
         height: 550px;
         background-color: #f8f8f8;
       }
-      .book-library {
+      .item1 {
         display: flex;
         justify-content: center;
         margin-bottom: 40px;
       }
-      .book-library img {
+      .item1 img {
         margin-top: 20px;
       }
       .item2 {
@@ -32,7 +32,7 @@
         padding: 30px;
         padding-bottom: 5px;
       }
-      .item1 {
+      .price-block {
         background-color: #2ecc71;
         color: white;
         text-align: center;
